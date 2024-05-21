@@ -1,0 +1,7 @@
+Instructions:
+    For the statement below, please select an alternative which best describes how often you
+    felt or behaved this way during the past several days:
+    (A) A little of the time
+    (B) Some of the time
+    (C) Good part of the time
+    (D) Most of the time

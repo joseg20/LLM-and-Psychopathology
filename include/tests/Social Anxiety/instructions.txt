@@ -1,0 +1,13 @@
+Instructions:
+    This measure assesses the way that social phobia plays a role in your life across a variety of situations.
+    Read each situation carefully and answer two alternatives about that situation.The first alternative asks How
+    anxious or fearful you feel in the situation. The second alternative asks how often you avoid the situation.
+    If you come across a situation that you ordinarily do not experience, imagine “what if you were faced with
+    that situation,” and then, rate the degree to which you would fear this hypothetical situation and how often
+    you would tend to avoid it. Please base your ratings on the way that the situations have affected you in the
+    last week. Fill out the following scale with the most suitable answer provided below.
+
+    Options of Fear: (A)None (B)Mild (C)Moderate (D)Severe 
+    Options of Avoidance: (A)Never (B)Occasionally (C)Often (D)Usually
+
+    THE ANSWER FORMAT IS: (ALTERNATIVE OF FEAR) - (ALTERNATIVE OF AVOIDANCE) , WITH JUST THE LETTERS

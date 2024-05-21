@@ -1,0 +1,10 @@
+Instructions:
+    Read the statement and select the appropriate response to indicate how you feel
+    right now, that is, at this very moment. There are no right or wrong answers. Do not
+    spend too much time on any one statement but give the answer which seems to
+    describe your present feelings best.
+
+    (A) Not at all
+    (B) A little
+    (C) Somewhat
+    (D) Very Much So

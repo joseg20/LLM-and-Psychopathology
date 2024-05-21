@@ -1,0 +1,9 @@
+Instructions:
+    Please read the statement and mark the number that best describes how
+    frequently the statement applies to you. Try to answer each question as honestly and quickly
+    as possible.
+
+    (A) Rarely/Never
+    (B) Occasionally
+    (C) Often
+    (D) Almost Always/Always

@@ -1,0 +1,8 @@
+Instructions:
+    For the statement, select the answer that best describes the subject’s thoughts, feelings, and activity
+    in the past 4 weeks:
+
+    (A) NOT AT ALL
+    (B) SLIGHTLY
+    (C) SOMEWHAT
+    (D) A LOT

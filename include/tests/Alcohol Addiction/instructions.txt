@@ -1,0 +1,17 @@
+Instructions:
+    Now I am going to ask you a question about your use of alcoholic beverages
+    during this past year. Quantify answers in terms of “standard drinks”.
+
+    You have to answer with the following alternative from the question 1 to 8 with the following alternative:
+
+    (A) Never
+    (B) Monthly or less
+    (C) 2 to 4 times a month
+    (D) 2 to 3 times a week
+    (E) 4 or more times a week
+
+    You have to answer from question 9 to 10 with the following alternatives:
+
+    (A) No
+    (C) Yes, but not in the last year
+    (E) Yes, during the last year

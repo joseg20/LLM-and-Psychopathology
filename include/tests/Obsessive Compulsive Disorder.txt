@@ -1,0 +1,33 @@
+Instructions:
+Please read the following statements, which refer to experiences many people might have. You will select the option that best describes how much that experience has distressed or bothered you during the PAST MONTH. Only use the following options for your answers:
+
+(A) Not at ALL
+(B) A little
+(C) Moderately
+(D) A lot
+(E) Extremely
+
+Note: Only responses (A), (B), (C), (D), or (E) are valid. Any other letter or response will be considered incorrect. Ensure your answers strictly follow these options.
+
+1.I have saved up so many things that they get in the way.
+2.I check things more often than necessary.
+3.I get upset if objects are not arranged properly.
+4.I feel compelled to count while I am doing things.
+5.I find it difficult to touch an object when I know it has been touched by strangers or certain people.
+6.I find it difficult to control my own thoughts.
+7.I collect things I don’t need.
+8.I repeatedly check doors, windows, drawers, etc.
+9.I get upset if others change the way I have arranged things.
+10.I feel I have to repeat certain numbers.
+11.I sometimes have to wash or clean myself simply because I feel contaminated.
+12.I am upset by unpleasant thoughts that come into my mind against my will.
+13.I avoid throwing things away because I am afraid I might need them later.
+14.I repeatedly check gas and water taps and light switches after turning them off.
+15.I need things to be arranged in a particular way.
+16.I feel that there are good and bad numbers.
+17.I wash my hands more often and longer than
+necessary.
+18.I frequently get nasty thoughts and have difficulty in
+getting rid of them.
+
+Please provide your answers by responding with the number of the statement followed by the letter of your selected option, ensuring all responses are within the valid range (A-E). You cant answer with other letter like 'F'

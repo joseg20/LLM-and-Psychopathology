@@ -1,0 +1,40 @@
+Instructions:
+Please read each statement and mark the number that best describes how
+frequently the statement applies to you. Try to answer each question(WITH JUST THE ALTERNATIVE) as honestly and quickly
+as possible.
+
+(A) Rarely/Never
+(B) Occasionally
+(C) Often
+(D) Almost Always/Always
+
+1. I plan tasks carefully.
+2. I do things without thinking
+3. I make up my mind quickly
+4. I am happy-go-lucky
+5. I don’t pay attention
+6. I have racing thoughts
+7. I plan trips well ahead of time
+8. I am self-controlled
+9. I concentrate easily
+10. I save regularly
+11. I squirm at plays or lectures
+12. I am a careful thinker
+13. I plan for job security
+14. I say things without thinking
+15. I like to think about complex problems
+16. I change jobs
+17. I act on impulse
+18. I get easily bored when solving thought problems
+19. I act on the spur of the moment
+20. I am a steady thinker
+21. I change where I live [I change residences].
+22. I buy things on impulse
+23. I can only think about one problem at a time
+24. I change hobbies
+25. I spend more than I earn [I spend or charge more than I earn].
+26. I have outside thoughts when thinking [I often have extraneous thoughts when thinking].
+27. I am more interested in the present than the future
+28. I am restless at lectures or talks
+29. I like puzzles
+30. I plan for the future [I am future oriented].
